@@ -1,3 +1,10 @@
+![image](https://github.com/AsyrafMufadhdhal/nextjs_asyraf/assets/101494475/b1e087d3-c012-4215-be6d-d69148e19f42)
+
+Daftar Kabupaten/Kota dalam Provinsi Sumatera Barat
+
+TalentHub Batch 13 NextJS Task-1 - Muhammad Asyraf Mufadhdhal
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
